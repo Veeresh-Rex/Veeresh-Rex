@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Visiters
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Veeresh-Rex.Veeresh-Rex)
