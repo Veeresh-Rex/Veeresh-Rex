@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on : It's a secret 😄
 - 🌱 I’m currently learning Node js, React js, Jest, Express js 
 - 💬 Ask me about Programming
-- 📫 How to reach me: It's 
+- 📫 Contact me: mauryaveeresh@gmail.com
 - 😄 Call me: Rex
 
 
