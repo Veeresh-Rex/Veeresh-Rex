@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on : It's a secret 😄
-- 🌱 I’m currently learning Node js, React js, Jest, Express js 
-- 💬 Ask me about Programming
+- 🔭 I’m currently working on : Chatting 😄
+- 🌱 I’m currently learning Node js, React js, Express js ,C++
+- 💬 Ask me about DSA in c++
 - 📫 Contact me: mauryaveeresh@gmail.com
 - 😄 Call me: Rex
 
