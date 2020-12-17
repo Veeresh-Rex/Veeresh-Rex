@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on : Chatting 😄
+- 🔭 I’m currently working on : Chatting App😄
 - 🌱 I’m currently learning Node js, React js, Express js ,C++
 - 💬 Ask me about DSA in c++
 - 📫 Contact me: mauryaveeresh@gmail.com
