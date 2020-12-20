@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Veeresh Maurya</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Web developer from India.I love solving DSA questions. I'm a college student intetested in open source contribution.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veeresh-rex&label=Profile%20views&color=0e75b6&style=flat" alt="veeresh-rex" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maurya_veersh" target="blank"><img src="https://img.shields.io/twitter/follow/maurya_veersh?logo=twitter&style=for-the-badge" alt="maurya_veersh" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React ,Express & Mysql**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **c++ and js**
 
 - 📫 How to reach me **mauryaveeresh@gmail.com**
 
@@ -15,9 +15,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/veereshrex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="veereshrex" height="30" width="40" /></a>
 <a href="https://twitter.com/maurya_veersh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maurya_veersh" height="30" width="40" /></a>
-<a href="https://instagram.com/veeresh-rx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="veeresh-rx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/veeresh-maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="veeresh-maurya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/veeresh-rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="veeresh-rex" height="30" width="40" /></a>
+<a href="https://fb.com/veeresh.maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="veeresh.maurya" height="30" width="40" /></a>
+<a href="https://instagram.com/veeresh-rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="veeresh-rex" height="30" width="40" /></a>
 <a href="https://medium.com/@mauryaveeresh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mauryaveeresh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/veeresh_rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="veeresh_rex" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/veeresh_rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="veeresh_rex" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/veeresh_rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="veeresh_rex" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@veeresh110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@veeresh110" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/veeresh_rex/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="veeresh_rex/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
