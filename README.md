@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veeresh-rex&label=Profile%20views&color=0e75b6&style=flat" alt="veeresh-rex" /> </p>
 
-<p align="left"> <a href="https://twitter.com/maurya_veersh" target="blank"><img src="https://img.shields.io/twitter/follow/maurya_veersh?logo=twitter&style=for-the-badge" alt="maurya_veersh" /></a> </p>
 
 - 🌱 I’m currently learning **React ,Express & Mysql**
 
@@ -20,7 +19,7 @@
 <a href="https://linkedin.com/in/veeresh-maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="veeresh-maurya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/veeresh-rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="veeresh-rex" height="30" width="40" /></a>
 <a href="https://fb.com/veeresh.maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="veeresh.maurya" height="30" width="40" /></a>
-<a href="https://instagram.com/veeresh-rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="veeresh-rex" height="30" width="40" /></a>
+<a href="https://instagram.com/veeresh_rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="veeresh-rex" height="30" width="40" /></a>
 <a href="https://medium.com/@mauryaveeresh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mauryaveeresh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/veeresh_rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="veeresh_rex" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/veeresh_rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="veeresh_rex" height="30" width="40" /></a>
