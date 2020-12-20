@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/veereshrex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="veereshrex" height="30" width="40" /></a>
-<a href="https://twitter.com/maurya_veersh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maurya_veersh" height="30" width="40" /></a>
+<a href="https://twitter.com/maurya_veeresh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maurya_veersh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/veeresh-maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="veeresh-maurya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14395865" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="veeresh-rex" height="30" width="40" /></a>
 <a href="https://fb.com/veeresh.maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="veeresh.maurya" height="30" width="40" /></a>
