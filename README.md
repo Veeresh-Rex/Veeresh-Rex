@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mauryaveeresh@gmail.com**
 
-- ⚡ Fun fact **I think i am very funny.**
+- ⚡ Fun fact **I can Hack NASA using HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
