@@ -34,6 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veeresh-rex&show_icons=true&locale=en&layout=compact" alt="veeresh-rex" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veeresh-rex&show_icons=true&locale=en" alt="veeresh-rex" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veeresh-rex&" alt="veeresh-rex" /></p>
-
