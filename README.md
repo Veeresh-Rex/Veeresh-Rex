@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veeresh-rex&label=Profile%20views&color=0e75b6&style=flat" alt="veeresh-rex" /> </p>
 
 
-- 🌱 I’m currently learning **React ,Express & Mysql**
+- 🌱 I’m currently learning **React ,Express, C# and ASP.NET**
 
 - 💬 Ask me about **c++ and js**
 
 - 📫 How to reach me **mauryaveeresh@gmail.com**
 
-- ⚡ Fun fact **I can Hack NASA using HTML**
+<!-- - ⚡ Fun fact **I can Hack NASA using HTML** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
