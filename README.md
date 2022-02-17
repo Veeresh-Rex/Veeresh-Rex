@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **mauryaveeresh@gmail.com**
 
+- 😄 Pronouns: He/His
+
 <!-- - ⚡ Fun fact **I can Hack NASA using HTML** -->
 
 <h3 align="left">Connect with me:</h3>
