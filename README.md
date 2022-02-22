@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/His
 
 <!-- - ⚡ Fun fact **I can Hack NASA using HTML** -->
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/veereshrex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="veereshrex" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 <a href="https://www.hackerearth.com/@veeresh110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@veeresh110" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/veeresh_rex/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="veeresh_rex/profile" height="30" width="40" /></a>
 </p>
-
+ -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veeresh-rex&show_icons=true&locale=en&layout=compact" alt="veeresh-rex" /></p>
