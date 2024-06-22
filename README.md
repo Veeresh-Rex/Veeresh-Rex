@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Veeresh Maurya</h1>
-<h3 align="center">A passionate Web developer from India.I love solving DSA questions. I'm a college student intetested in open source contribution.</h3>
+# Welcome to My GitHub Profile!
+<h1 align="center">Hey there! I'm Veeresh Maurya, </h1>
+<h3 align="center">a software developer with 2.5+ years of experience navigating the tech seas 🌊. Here’s a quick peek into my world:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veeresh-rex&label=Profile%20views&color=0e75b6&style=flat" alt="veeresh-rex" /> </p>
 
 
-- 🌱 I’m currently learning **React ,Express, C# and ASP.NET**
+## About Me
 
-- 💬 Ask me about **c++ and js**
+- **Industry Experience**: 2.5 years in the tech industry, sailing through the shipping domain.
+- **Tech Stack**: .NET, React JS, SQL DB, Azure Cosmos DB, DevOps, Kubernetes, and Kafka.
+- **Shipping Domain**: Expert at keeping things moving smoothly on digital seas.
 
-- 📫 How to reach me **mauryaveeresh@gmail.com**
+## Fun Facts
 
-- 😄 Pronouns: He/His
+- When I'm not coding, I'm probably plotting the next big thing in shipping logistics (or just binge-watching my favorite series 🎬).
+- My secret superpower? Debugging with a cup of coffee in hand ☕.
 
+## Let's Connect!
 <!-- - ⚡ Fun fact **I can Hack NASA using HTML** -->
 <!-- 
 <h3 align="left">Connect with me:</h3>
