@@ -7,15 +7,16 @@
 
 ## About Me
 
-- 🛠️ **Industry Experience**: 2.5 years in the tech industry, sailing through the shipping domain.
-- 💻 **Tech Stack**: .NET, React JS, SQL DB, Azure Cosmos DB, DevOps, Kubernetes, and Kafka.
-- 🚢 **Shipping Domain**: Expert at keeping things moving smoothly on digital seas.
+- 🛠️ **Industrial Expertise**: I have 2.5 years of experience in the tech industry, specializing in the shipping domain.
+- 💻 **Tech Stack**: Proficient in .NET, React JS, SQL DB, Azure Cosmos DB, DevOps, Kubernetes, and Kafka.
+- 🌟 **Passionate Learner**: Continuously learning and adapting to new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
+- 💡 **Made with Passion**: I thrive on code refactoring, applying design patterns, and writing clean, maintainable code. It's not just about functionality; it's about craftsmanship and quality.
 
 ## Fun Facts
 
-- 📺 When I'm not coding, I'm probably plotting the next big thing in shipping logistics (or just binge-watching my favorite series 🎬).
-- ☕ My secret superpower? Debugging with a cup of coffee in hand.
-
+- 🌍 I dream of deploying an app from a beach in Bali. Code, surf, repeat! 🏖️
+- 🌱 I'm passionate about sustainability and technology's role in creating a greener future. Let's code for a better planet!
+  
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/veeresh-maurya) 
