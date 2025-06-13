@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 <h2>Hey there! I'm Veeresh Maurya </h2>
-<h3 align="center">a software developer with 2.5+ years of experience navigating the tech seas 🌊. Here’s a quick peek into my world:</h3>
+<h3 align="center">a software developer with 3.5+ years of experience navigating the tech seas 🌊. Here’s a quick peek into my world:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veeresh-rex&label=Profile%20views&color=0e75b6&style=flat" alt="veeresh-rex" /> </p>
 
