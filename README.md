@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 🛠️ **Industrial Expertise**: I have 3.5 years of experience in the tech industry, specializing in the shipping domain.
+- 🛠️ **Industrial Expertise**: I have 4+ years of experience in the tech industry, specializing in the shipping domain.
 - 💻 **Tech Stack**: Proficient in .NET, React JS, SQL DB, Azure Cosmos DB, DevOps, Kubernetes, and Kafka.
 - 🌟 **Passionate Learner**: Continuously learning and adapting to new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
 - 💡 **Made with Passion**: I thrive on code refactoring, applying design patterns, and writing clean, maintainable code. It's not just about functionality; it's about craftsmanship and quality.
